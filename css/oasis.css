@@ -195,6 +195,20 @@ aside li {
   background: #f3f3f3;
   padding: 0.2em 0.2em;
 }
+#post_item div.post-tags {
+  padding-left: 1em;
+  display: inline-block;
+  color: #b9bfcc;
+}
+#post_item div.post-tags a {
+  color: #b9bfcc;
+}
+#post_item div.post-tags a:link {
+  text-decoration-line: none;
+}
+#post_item div.post-tags a:hover {
+  text-decoration-line: underline;
+}
 #post pre[class*='language-'].line-numbers {
   position: relative;
   padding-left: 3.8em;
