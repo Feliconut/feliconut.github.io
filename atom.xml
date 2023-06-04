@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2023-05-20T19:41:00.142Z</updated>
+  <updated>2023-06-04T01:02:59.081Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无题</title>
+    <link href="http://yoursite.com/2023/06/03/fox-fish/"/>
+    <id>http://yoursite.com/2023/06/03/fox-fish/</id>
+    <published>2023-06-03T13:00:13.000Z</published>
+    <updated>2023-06-04T01:02:59.081Z</updated>
+    
+    <content type="html"><![CDATA[<p>狐狸笑着衔起<br />一杯水。烧杯却<br />也笑着；五分尺在洗礼<br />一百枚叶子。如何提起，<br />如何提起。二十点钟云<br />与灰烬的无趣</p><p>吾非鱼，我只是<br />吞下了一个场景</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;狐狸笑着衔起&lt;br /&gt;
+一杯水。烧杯却&lt;br /&gt;
+也笑着；五分尺在洗礼&lt;br /&gt;
+一百枚叶子。如何提起，&lt;br /&gt;
+如何提起。二十点钟云&lt;br /&gt;
+与灰烬的无趣&lt;/p&gt;
+&lt;p&gt;吾非鱼，我只是&lt;br /&gt;
+吞下了一个场景&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="reverie" scheme="http://yoursite.com/tags/reverie/"/>
+    
+    <category term="poem" scheme="http://yoursite.com/tags/poem/"/>
+    
+  </entry>
   
   <entry>
     <title>铁夹子</title>
